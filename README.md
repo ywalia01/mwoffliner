@@ -37,6 +37,8 @@ Run `mwoffliner --help` to get all the possible options.
 - *NIX Operating System (GNU/Linux, macOS, ...)
 - [NodeJS](https://nodejs.org/en/)
 - [Redis](https://redis.io/)
+- [LibJpeg](http://libjpeg.sourceforge.net/) (package `libjpeg-dev` on Linux)
+- [AutoConf](https://www.gnu.org/software/autoconf/) (package `autoconf` on Linux)
 - [Libzim](https://github.com/openzim/libzim) (On GNU/Linux & macOS we automatically download it)
 - Various build tools that are probably already installed on your machine (libjpeg, gcc)
 
